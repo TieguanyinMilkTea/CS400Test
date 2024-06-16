@@ -5,5 +5,6 @@ public class HelloWorld {
 
     System.out.println("Hellow World!");
     System.out.println("And Hello Stranger!");
+    System.out.println("May I wish you a happy day!");
   }
 }
